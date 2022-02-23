@@ -91,4 +91,4 @@ Community Project Administrator
 
 ## Hobbies
 
-Chuck me a pen, paintbrush, polymer clay, anything crafty along with a pair of headphones and a Spotify subscription and I'll be sorted. I do also go outside and love visiting new places. I've spent six months completing voluntary work in Cusco, Peru. Coming back home to a new episode of NEVER TOO SMALL is perfection (it’s about reimaging small space living before you ask…).
+Chuck me a pen, paintbrush, polymer clay, anything crafty along with a pair of headphones and a Spotify subscription and I'll be sorted. I do also go outside and love visiting new places. I've spent six months completing voluntary work in Cusco, Peru. Coming back home to a new episode of NEVER TOO SMALL is perfection (architects reimaging small space living).
