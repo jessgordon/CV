@@ -59,10 +59,9 @@ Bachelor of Science: Midwifery Studies and Registration as a Midwife
 - First Class Honours
 
 **Vyners Secondary School** (Sep 2009 to Sep 2011)\
-A Levels: 
-- 3 A*s in Mathematics, Chemistry and Psychology\
-AS Levels: 
-- A in Art
+A Levels
+- 3 A*s in Mathematics, Chemistry and Psychology
+- A (AS Level) in Art
 
 ## Experience
 
@@ -92,5 +91,4 @@ Community Project Administrator
 
 ## Hobbies
 
-Chuck me a pen, paintbrush, polymer clay, anything crafty along with a pair of headphones and a Spotify subscription and I'll be sorted.\
-I do also go outside and love visiting new places. I've spent six months completing voluntary work in Cusco, Peru. Closer to home I'll happily enjoy some live music with friends, go on long walks with a flask of tea, or just lose myself in a charity shop crawl. Coming back home to a new episode of NEVER TOO SMALL is perfection (it’s about reimaging small space living before you ask…).
+Chuck me a pen, paintbrush, polymer clay, anything crafty along with a pair of headphones and a Spotify subscription and I'll be sorted. I do also go outside and love visiting new places. I've spent six months completing voluntary work in Cusco, Peru. Coming back home to a new episode of NEVER TOO SMALL is perfection (it’s about reimaging small space living before you ask…).
