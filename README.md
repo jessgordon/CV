@@ -1,115 +1,96 @@
 ## Jessica Gordon
+[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [HOBBIES](#hobbies) | [LINKEDIN](https://uk.linkedin.com/in/jessica-gordon-5b8875200)
 
-Studying at Makers Academy where I'm learning to become a full stack Ruby developer.
+I’m a Full Stack Junior Developer, having recently completed a highly selective, intensive 16-week coding Bootcamp at [Makers Academy](http://www.makersacademy.com/). I’d like to be challenged, to be constantly learning and have chances to be creative.
 
-Since graduating from King’s College London in 2016 with a First Class Honours Bachelor of Science degree in Midwifery studies, I have spent time as a technical support officer for the local government and as an administrator for a community based project in Brixton. Motivation for these roles have been high, as I’ve enjoyed supporting public health and wellbeing. Yet, I knew this quirky square peg mind of mine could find its quadrilateral companion out there somewhere, rather than continuing to try and fit into a round hole that was built for someone else’s working style.
-
-It was on this career hunt that I discovered my love for code. As soon as I wrote my first "Hello, World!" I knew I had discovered something more than a skill to put on my CV. I had discovered a tool with endless possibilities, that energised and excited me. I chose to look into tech further, and took Harvard’s ‘CS50 Introduction to Computer Science’ course. On this course, I was able to utilise some of my strongest skills; problem solving, creative and critical thinking, and could see how my empathy, teamwork and strong communication skills could come into play once working in the industry. It doesn’t fall too far from the public health tree either; tech is one aspect of our existence that currently has the potential to improve or adversely affect our quality of life and future substantially. The constant evolution of technology, its opportunities to collaborate with others from different backgrounds, and its potential to help solve some of the largest problems we currently face makes me want to get involved. I found my square hole!
-
-## What am I looking for? 
-I’d like to be challenged, intellectually stimulated and have chances to be creative. Looking further ahead when I've become well versed in a particular area, I'd be very open to further education/ research (yeah I know, unashamedly geeky - libraries are a happy place for me) and would love to have opportunities to grow my leadership skills. 
+I have unashamedly fallen for code in the past year - I’ve found a tool with endless possibilities where I can utilise some of my strongest skills; problem-solving, creative and critical thinking, empathy, and teamwork. Plus, the constant evolution of technology, its opportunities to collaborate with others from different backgrounds, and its potential to help solve the smallest to some of the largest problems we currently face is just wildly cool! How could I not pursue that!?
 
 ## Projects
 
 | Name                         | Description       | Code/Demo Links     | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
-| **JESSKETCHES website**      | a Flask application which ran an E-Commerce website to host my artwork | [video](https://www.youtube.com/watch?v=a6cnRCpabnE) |  SQLite database, Python, CSS, HTML, Javascript, Jinja, Bootstrap 5 |
-
-## Work Experience
-
-**London Borough of Hillingdon** (Mar 2017 to Aug 2020)  
-Technical Support Officer
-
--Provided high quality technical administrative support for Children’s Safeguarding and Quality Assurance Services within a large complex organisation, with promotion to a Senior Technical Support Officer within one year.
-
--Achievements:
-  - Successfully initiated and completed service improvements to boost efficiency and accuracy 
-  - Ofsted Inspection in April 2018: Outstanding and Good
-
--Senior Responsibilities: 
-  - Trained and supported new team members including managers
-  - Involved in the recruitment process from shortlisting, to interviewing, to induction
-  - Monitored workloads and resources when required to step in for the manager
-  - Available as the first point of contact for internal queries related to our team’s services
-  - Provided internal reports to aid management
-
--Technical Support Responsibilities: 
-  - Updated information, reported and resolved blockages and tested updates for the case management software
-  - Updated, reviewed and shared highly confidential reports to residents and external professionals
-  - Employed customer care skills when answering telephone calls from residents or professionals and when responding to emails in a timely manner
-  - Volunteered to provide full time interim administrative support for the School Admissions team for six months
-
-**Baby Talk Angell Town** (May 2016 - Dec 2016)  
-Community Project Administrator
-
--Supported the development of a resident-focused parish midwife community project aiming to nurture trust and strengthen family bonds in an inner city ward of London. Project activities included piloting an infant feeding programme in primary schools, offering one-to-one listening support for mothers, hosting community events and a toddler group. 
-
--Achievements: 
-  - This project was a runner up in the ‘Reaching Out, Inviting In’ 2016 competition run by Ecclesiastical Insurance, which won £2000 for Baby Talk.
-
--Responsibilities: 
-  - Prepared research based rationale and promotional resources for the projects
-  - Prepared reports, including draft funding applications, and monthly newsletters
-  - Reviewed Baby Talk policies and packages, supervised by the senior midwife
-  - Developed and maintained relationships with local residents and stakeholders
-  - Developed and maintained a filing system
-  - Organised events and meetings
+| [**Crosswordle**](https://crosswordle-production.herokuapp.com/normal) | A Wordle inspired web app in which the user has to guess the correct five-letter words in a 5x5 grid, ensuring they only use available letters and match up the words according to the game mode. New challenges are presented each day. | [video](https://youtu.be/LFG_3K62Uhc?t=2520) [code](https://github.com/jessgordon/crosswordle) | Web app: React, CSS & Bulma, Solutions: generated using a trie data structure in Python, Testing: Jest, Enzyme, React Testing Library | 
+| [**GemJunkies**](http://gem-junkies.herokuapp.com) | A Facebook clone where a user can sign up, add friends, view profiles, post messages and images, and add comments, likes and gems | [code](https://github.com/Riky5/acebook-ruby-junkies) | Web app: Ruby on Rails, PostgreSQL for Active Record, HTML, CSS & Bulma, Testing: RSpec, capybara |
+| **JESSKETCHES website** | My final project for CS50: a website to host and sell my artwork | [video](https://www.youtube.com/watch?v=a6cnRCpabnE) |  Flask framework, Python, SQLite, Javascript, HTML, CSS, Jinja, Bootstrap 5 |
 
 ## Skills
 
 #### Creative Problem Solver
-I like to think creatively and see potential - I'm eager to make things more efficient when I realise that there is a simpler, more accurate or quicker way to do things. For example, I successfully initiated and completed two service improvements within my technical support team whilst working for the local government. These projects resulted in saved time, decreased the risk of human error, and improved functionality. This trait of mine has given me much joy when I get to refactor code!
+I like to think creatively and see the potential for a simpler, more accurate or quicker way to do things. I successfully initiated and completed two service improvements whilst working for the local government - these projects resulted in saved time, decreased the risk of human error, and improved functionality. This trait of mine has recently transitioned into a determination to figure out solutions when planning and debugging. It’s in these moments I’ve learnt the art of stepping away and making a cup of tea to regain perspective!
 
 #### Critical Thinker
 
-My favourite part of my BSc Degree was researching and writing up my dissertation. I love to pick apart ideas and evidence, get really involved in a particular area, and then present a balanced argument. Basically, I love learning (ahem geek hint no. 2)! 
+My favourite part of my degree was my dissertation - I love to pick apart ideas and evidence, considering their value. Devs I’ve partnered with have noticed that I tend to quickly spot when we are coding our way onto an erroneous path, which I put down to my critical thinking.
 
 #### Teamwork
 
-I've trained new starters and two managers who joined our technical support team whilst working for the local government, to ensure the smooth running of our services whilst our team went through a period of a lot of change. In this role, I collaborated with other teams and management to ensure SLAs were met and issues were escalated in a timely manner. As management noticed I tend to pick up new tasks quickly, I have supported other teams when required, such as spending six months in another service area. A benefit to working for the local government meant I was also able to volunteer to complete food shop and drops for vulnerable residents whilst in lockdown through our council.
+In my previous role, teamwork skills were essential to support and train staff whilst keeping motivation high in an emotionally heavy environment. Over two hundred hours of pair programming and three team projects later, I’ve learnt the importance of quiet consideration too - such as maintaining clean code for the sake of readability and changeability. 
 
-#### Communication Skills
+#### Quick Learner
 
-Whilst working within the local government, high quality customer care skills were essential. As part of my role I would phone and email residents, healthcare professionals, police, schools and other service providers regarding highly confidential and sensitive information. Communication with clients and other healthcare professionals was also at the centre of safe care whilst working in maternity, I was continually assessed on these skills throughout my three years of training. 
+Management has noticed I tend to pick up new tasks quickly, and I have been asked to temporarily take on work from other service areas when required. For our final project at Makers, our team intentionally picked up a new framework none of us had used before to build our web app and succeeded.
+
+#### Motivated
+
+It’s been satisfying to see how my self-led learning has benefited others, such as being able to suggest researching tries for our final project data structure on the first day of planning (thanks to CS50!). I am proud of what we’ve produced in our projects, and have loved working in teams whom all strive to deliver the best.
+
+#### Communication
+
+Whilst working within the local government, high-quality customer care skills were essential. As part of my role, I would phone and email residents, healthcare professionals, police, schools and other service providers regarding highly confidential and sensitive information. When pair programming I regularly check in with my partner, not only to prevent disjointed code but also to acknowledge our needs that day.
 
 ## Education
 
-#### Makers Academy (Oct 2021 to Feb 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+**Makers Academy** (Oct 2021 to Feb 2022)
+Full-Time Intensive Coding Bootcamp
+- Bootcamp focused heavily on self-directed learning and the power of pair programming.
+- Topics included test-driven development, agile working practices, object-oriented design, debugging, MVC web app design, single-page web app design, databases, code reviews, building in a team to a specification and from scratch, learning a new language, emotional curriculum.
+- Languages included Ruby, Javascript plus CSS and HTML.
+- Gained a new obsession for well tested, clean code.
 
-#### Harvard University (Mar 2021 to Aug 2021)
-- CS50's Introduction to Computer Science
-- Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. 
+**Harvard University** (Mar 2021 to Aug 2021)
+CS50's Introduction to Computer Science
+- An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. 
 - Topics included abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. 
 - Languages included C, Python, SQL, and JavaScript plus CSS and HTML. 
 - Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming.
 
-#### King's College London (Sep 2012 to April 2016)
-
-- Bachelor of Science: Midwifery Studies and Registration as a Midwife
+**King's College London** (Sep 2012 to April 2016)
+Bachelor of Science: Midwifery Studies and Registration as a Midwife
 - First Class Honours
 
-#### Vyners Secondary School
+**Vyners Secondary School** (Sep 2009 to Sep 2011)
+A Levels: 
+- 3 A*s in Mathematics, Chemistry and Psychology
+AS Levels: 
+- A in Art
 
-#### A Levels: 
-Mathematics (A*) Chemistry (A*) Psychology (A*)
-#### AS Levels: 
-Art (A)
+## Experience
 
-#### GCSEs: 
-Mathematics (A*) IT (A*) 
-Chemistry (A*) Physics (A*) Biology (A)
-Graphics (A*) Art (A*)
-English (A) English Literature (A)
-German (A) Religious Education (A*)
-Child Development (B)
+**London Borough of Hillingdon** (Mar 2017 to Aug 2020)  
+Technical Support Officer, with promotion to a Senior Technical Support Officer within one year
+
+Provided high quality technical administrative support for Children’s Safeguarding and Quality Assurance Services.
+- Successfully initiated and completed service improvements to boost efficiency and accuracy.
+- Trained and supported new team members including managers.
+- Involved in the recruitment process from shortlisting to interviewing, to induction.
+- Monitored workloads and resources when required to step in for the manager.
+- Gained a wider understanding of the business by being available as the first point of contact for internal queries related to our team’s services.
+- Reported and resolved blockages and tested updates on the case management software.
+- Updated, reviewed and shared highly confidential reports to residents and external professionals.
+- Employed customer care skills when answering telephone calls from residents or professionals and when responding to emails promptly.
+
+**Baby Talk Angell Town** (May 2016 to Dec 2016)  
+Community Project Administrator
+
+Supported the development of a resident-focused parish midwife community project in an inner-city ward of London, which received a mention in Southbank’s WOW festival and were runners up in the Ecclesiastical Insurance 2016 competition. 
+
+- Project activities included piloting an infant feeding programme in primary schools, offering one-to-one listening support for mothers, and hosting community events. 
+- Remained motivated in a highly autonomous role.
+- Prepared research-based rationale and promotional resources for the projects.
+- Prepared documents including draft funding applications, policies and newsletters.
+- Demonstrated communication skills while developing and maintaining relationships with residents and stakeholders.
+- Maintained organisation of the project by developing a filing system, and planning events and meetings.
 
 ## Hobbies
 
-Painting, sketching, live music, visiting new places, swim/jog/yoga, and spending far too much time in charity shops. 
+Chuck me a pen, paintbrush, polymer clay, anything crafty along with a pair of headphones and a Spotify subscription and I'll be sorted. Sorted for a while… I do also love visiting new places and have spent six months completing voluntary work in Cusco, Peru. Closer to home I'll happily enjoy some live music with friends, go on long walks with a flask of tea, or just lose myself in a charity shop crawl. Coming back home to a new episode of NEVER TOO SMALL is perfection (it’s about reimaging small space living before you ask…).
