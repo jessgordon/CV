@@ -10,9 +10,9 @@ I have unashamedly fallen for code in the past year - I’ve found a tool with e
 
 | Name | Description | Code/Demo Links | Tech/tools |
 | ---- |------------ | --------------- | ---------- |
-| <p align="center">**Crosswordle** <br><img src="./crosswordle.png" height="35"></p> | A Wordle inspired web app in which the user has to guess the correct five-letter words in a 5x5 grid, ensuring they only use available letters and match up the words according to the game mode. New challenges are presented each day. | <p align="center">[Crosswordle website](https://crosswordle-production.herokuapp.com/normal) <br> [<img src="./youtube-icon.png" height="35">](https://youtu.be/LFG_3K62Uhc?t=2520) <br> [<img src="./github-icon.png" height="35">](https://github.com/jessgordon/crosswordle)</p> | React, CSS & Bulma, Python, Jest, Enzyme, React Testing Library |
-| <p align="center">**GemJunkies** <br> <img src="./GemJunkies.png" height="35"></p> | A Facebook clone in which a user can sign up, add friends, view profiles, post messages and images, and add comments, likes and gems | <p align="center">[GemJunkies website](http://gem-junkies.herokuapp.com) <br> [<img src="./github-icon.png" height="35">](https://github.com/Riky5/acebook-ruby-junkies)</p> | Ruby on Rails, PostgreSQL for Active Record, HTML, CSS & Bulma, RSpec, capybara |
-| <p align="center">**JESSKETCHES website** <br> <img src="./jsklogo.png" height="35"></p>| A website to host and sell artwork built for my final project for CS50| <p align="center">[<img src="./youtube-icon.png" height="35">](https://www.youtube.com/watch?v=a6cnRCpabnE)</p> | Flask framework, Python, SQLite, Javascript, HTML, CSS & Bootstrap 5, Jinja     |
+| <p align="center">**Crosswordle** <br><img src="./crosswordle.png" height="40" style="margin:2rem;"></p> | A Wordle inspired web app in which the user has to guess the correct five-letter words in a 5x5 grid, ensuring they only use available letters and match up the words according to the game mode. New challenges are presented each day. | <p align="center">[Crosswordle website](https://crosswordle-production.herokuapp.com/normal) <br> [<img src="./youtube-icon.png" height="40">](https://youtu.be/LFG_3K62Uhc?t=2520) <br> [<img src="./github-icon.png" height="40">](https://github.com/jessgordon/crosswordle)</p> | React, CSS & Bulma, Python, Jest, Enzyme, React Testing Library |
+| <p align="center">**GemJunkies** <br> <img src="./GemJunkies.png" height="40"></p> | A Facebook clone in which a user can sign up, add friends, view profiles, post messages and images, and add comments, likes and gems | <p align="center">[GemJunkies website](http://gem-junkies.herokuapp.com) <br> [<img src="./github-icon.png" height="40">](https://github.com/Riky5/acebook-ruby-junkies)</p> | Ruby on Rails, PostgreSQL for Active Record, HTML, CSS & Bulma, RSpec, capybara |
+| <p align="center">**JESSKETCHES website** <br> <img src="./jsklogo.png" height="40"></p>| A website to host and sell artwork built for my final project for CS50| <p align="center">[<img src="./youtube-icon.png" height="40">](https://www.youtube.com/watch?v=a6cnRCpabnE)</p> | Flask framework, Python, SQLite, Javascript, HTML, CSS & Bootstrap 5, Jinja     |
 
 ## Skills
 
@@ -44,7 +44,7 @@ My favourite part of my degree was my dissertation - I love to pick apart ideas 
 
 ## Education
 
-<img src="./makers.png" height="35">\
+<img src="./makers.png" height="40">\
 **Makers Academy** (Oct 2021 to Feb 2022)\
 Full-Time Intensive Coding Bootcamp
 
@@ -53,7 +53,7 @@ Full-Time Intensive Coding Bootcamp
 - Languages included Ruby, Javascript plus CSS and HTML.
 - Gained a new obsession for well tested, clean code.\
 
-<img src="./harvard.png" height="35">\
+<img src="./harvard.png" height="40">\
 **Harvard University** (Mar 2021 to Aug 2021)\
 CS50's Introduction to Computer Science
 
@@ -62,7 +62,7 @@ CS50's Introduction to Computer Science
 - Languages included C, Python, SQL, and JavaScript plus CSS and HTML.
 - Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming.\
 
-<img src="./kcl.png" height="35">\
+<img src="./kcl.png" height="40">\
 **King's College London** (Sep 2012 to April 2016)\
 Bachelor of Science: Midwifery Studies and Registration as a Midwife
 
