@@ -28,7 +28,7 @@ Historically, management has noticed I tend to pick up new tasks quickly. As suc
 
 #### Motivated
 
-I strive for excellence, both academically (gained a First Class Honours Degree in Midwifery studies) and in work (promotion to senior within one year of working in local government). Within one week of finishing the Makers Bootcamp, I have signed up for my first hackathon alongside other tech events, and have plans to begin developing my InvestTheRest app alongside completing an algorithmic complexity course. 
+I strive for excellence, both academically (gained a First Class Honours Degree in Midwifery studies) and in work (promotion to senior within one year of working in local government). Since finishing Makers, I have signed up for my first hackathon, begun volunteering my skills to assist the build of a website for a non-profit organisation, and have plans to begin developing my InvestTheRest app alongside completing an algorithmic complexity course. 
 
 #### Communication
 
@@ -51,7 +51,7 @@ Full-Time Intensive Coding Bootcamp
 - Focus on self-directed learning and the power of pair programming.
 - Topics included test-driven development, agile working practices, object-oriented design, debugging, MVC web app design, single-page web app design, databases, code reviews, building in a team to a specification and from scratch, learning a new language, EQ curriculum.
 - Languages included Ruby, Javascript plus CSS and HTML.
-- Gained a new obsession for well tested, clean code.\
+- Gained a new obsession for well tested, clean code.
 
 <img src="./images/harvard.png" height="40">\
 **Harvard University** (Mar 2021 to Aug 2021)\
@@ -60,7 +60,7 @@ CS50's Introduction to Computer Science
 - An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently.
 - Topics included abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development.
 - Languages included C, Python, SQL, and JavaScript plus CSS and HTML.
-- Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming.\
+- Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming.
 
 <img src="./images/kcl.png" height="40">\
 **King's College London** (Sep 2012 to April 2016)\
